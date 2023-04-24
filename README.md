@@ -24,4 +24,4 @@ Our technology also offers a unique way to view, customize, and purchase home eq
 
 ## How to use?
 
-Everything as in same name as table of contents has been added to the Github Repo and you can individually download and run them by downloading zip file by going into <code> section at right corner of Repo
+Everything as in same name as table of contents has been added to the Github Repo and you can individually download and run them by downloading zip file by going into code section at right corner of Repo
